@@ -1,2 +1,2 @@
-Author: Shubham Bhattarai
+Author: Shubham Bhattarai <br>
 Computer Engineering- First Year
